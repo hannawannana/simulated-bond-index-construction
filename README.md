@@ -11,7 +11,7 @@ This project simulates a custom bond index using real Treasury yield data from t
 - Benchmarks against the S&P 500 Index
 - Outputs chart + CSV of results
 
-## 📁 Files
+## Files
 
 | File                     | Description                       |
 |--------------------------|-----------------------------------|
@@ -19,7 +19,7 @@ This project simulates a custom bond index using real Treasury yield data from t
 | `bond_vs_sp500.png`      | Chart: Bond strategies vs S&P 500 |
 | `bond_vs_sp500_data.csv` | Portfolio values export           |
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo
 2. Install requirements: pip install pandas matplotlib numpy fredapi
