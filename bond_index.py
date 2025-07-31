@@ -16,7 +16,7 @@ from datetime import datetime
 # ---------------------------
 # STEP 1: Connect to FRED API
 # ---------------------------
-FRED_API_KEY = 'b9a4903923b9fcb6db345239517e5afc'  # Replace with your FRED key
+FRED_API_KEY = 'b9a4903923b9fcb6db345239517e5'  # Replace with your FRED key
 fred = Fred(api_key=FRED_API_KEY)
 
 start_date = '2018-01-01'
